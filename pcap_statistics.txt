@@ -1,0 +1,5 @@
+Number of packets: 13522
+Number of source IPs: 10
+Number of destination IPs: 11
+Number of protocols used: 2
+Packets per protocol: {'TCP': 69, 'UDP': 29}

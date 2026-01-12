@@ -1,2 +1,2 @@
 # Computer-Networks-Lab
-A repo dedicated to my college COMPUTER NETWORKS coursework..
+A repo for my college coursework of Computer Networks experiment 3 regarding Wireshark
